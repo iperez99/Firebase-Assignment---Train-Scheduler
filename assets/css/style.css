@@ -1,3 +1,11 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+
+footer {
+    position: fixed;
+}
+
+h1{
+    text-align: center;
+}
